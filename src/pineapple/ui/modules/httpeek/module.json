@@ -1,0 +1,10 @@
+{
+    "name": "httpeek",
+    "title": "HTTPeek",
+    "author": "newbi3",
+    "version": "1.0",
+    "description": "View plaintext HTTP traffic, such as cookies and images.",
+    "favourite": true,
+    "missing": false,
+    "icon": ""
+}
