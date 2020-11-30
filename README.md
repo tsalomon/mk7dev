@@ -6,4 +6,6 @@ Personal development on the [Wifi Pineapple Mark VII](https://shop.hak5.org/prod
 
 ## Features
 1. <b>[WIP]</b> USB Persistence for captured WPA handshakes
+2. <b>[WIP]</b> USB Persistence for the Recon database
+3. <b>[WIP]</b> USB Backup for all loot (handshakes and campaigns)
  
