@@ -1,11 +1,4 @@
-# mk7dev
-Personal development on the [Wifi Pineapple Mark VII](https://shop.hak5.org/products/wifi-pineapple)
-
-<img src="https://cdn.shopify.com/s/files/1/0068/2142/products/wp-mk7_81d03a53-bf1a-426f-9425-a34c8b3d9c85_2000x.jpg" height="200" width="200">
-
-
-## Features
-1. <b>[WIP]</b> USB Persistence for captured WPA handshakes
-2. <b>[WIP]</b> USB Persistence for the Recon database
-3. <b>[WIP]</b> USB Backup for all loot (handshakes and campaigns)
- 
+ # WiFi Pineapple MK7 development (mk7dev)
+| [Wifi Pineapple Mark VII](https://shop.hak5.org/products/wifi-pineapple) | Features |
+| ---- | ---- |
+| <img src="https://drive.google.com/uc?export=view&id=1N39abHVolebXgMqnvMxkswjJgOCPxYrI" height="400" width="400"> | <ul><li><b>[WIP]</b> USB Persistence for captured WPA handshakes </li><li><b>[WIP]</b> USB Persistence for the Recon database</li><li><b>[WIP]</b> USB Backup for all loot (handshakes and campaigns)</li><li><b>More coming soon...</b></ul> |
